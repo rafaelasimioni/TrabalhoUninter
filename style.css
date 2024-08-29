@@ -35,6 +35,8 @@ nav{
     padding: 20px;
     margin: auto;
     width: 100%;  
+    
+    
      
 }
 
@@ -46,6 +48,8 @@ a{
     margin: 50px;
     font-weight:normal;
     
+    
+}  
 
 a:hover{
         
@@ -84,16 +88,7 @@ p{
 }
 
 
-img{
-        border-radius: 300px;
-        margin: auto;
-        padding: auto;
-        display: block;
-        width: 20%;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        border: solid 5px gray;
-    }
+
        
     main{
         color: white;
@@ -102,8 +97,10 @@ img{
         min-width: 320px;
         max-width: 800px;
         margin: auto;
-        padding: 20px;
-        border-radius: 10px;}
+        padding: 100px;
+        border-radius: 10px;
+        border: groove;
+    }
 
 div{
     box-sizing: border-box;
@@ -125,7 +122,8 @@ footer{
         text-decoration: none;
         color: white;
        
-}
+       
+    }
 }
 
 .lista{
@@ -158,4 +156,32 @@ footer{
 
 .botao{
     text-align: center;
+}
+
+.menu{
+    background-color: rgb(190, 189, 189);
+    padding: 50px;
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+}
+
+.portifolio{
+    padding: auto;
+    border: groove;
+
+}
+
+.imagem{
+    
+
+    border-radius: 300px;
+    margin: auto;
+    padding: auto;
+    display: block;
+    width: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: solid 5px gray;
+
 }
