@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color:rgb(241, 241, 241);  
+    background-color:black;  
 
 }
 
@@ -55,8 +55,8 @@ a:hover{
         
     font-weight: lighter;
     background-color: rgba(211, 211, 211, 0.683);
-    font-size: 1.2em;
-    box-shadow: 2px 2px 2px 2px #7D5E4A;
+    font-size: 1.5em;
+    box-shadow: 2px 2px 2px 2px rgba(226, 226, 226, 0.683);
     
 }
 
@@ -147,11 +147,13 @@ footer{
 
 .formulario{
     background-color: gray;
-    text-align: center;
+    text-align: left;
     padding: 50px;
     margin: 10px;
     border-radius: 50px;
     color: white;
+   display:grid;
+   align-items: center;
 }
 
 .botao{
