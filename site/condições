@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rafaela Simioni de Ávila</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Sobre mim: falar sobre mim, hobbies</h1>
+    <h2>Formação educacional, idiomas</h2>
+    <h3>Portifólio: link para outros sites que tenha feito (tem exemplos de sites na própria disciplina que eu posso fazer)</h3>
+    <h4>Link para contato: parte visual do formulário (InPut com nome, email e mensagem)</h4>
+    <h5>Explicar o código sem exageros</h5>
+    <h6>Utilizar o nome como parte do domínio para hospedar</h6>
+    
+</body>
+</html>
