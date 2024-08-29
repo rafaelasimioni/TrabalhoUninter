@@ -34,7 +34,8 @@ nav{
     display:inline;
     padding: 20px;
     margin: auto;
-    width: 100%;   
+    width: 100%;  
+     
 }
 
 a{
@@ -44,7 +45,7 @@ a{
     transition-duration: 0.7s;
     margin: 50px;
     font-weight:normal;
-}
+    
 
 a:hover{
         
